@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/haru_vitamin/static/css/main.fac29159.css",
+    "main.js": "/haru_vitamin/static/js/main.aee56085.js",
+    "static/js/377.99cf2af1.chunk.js": "/haru_vitamin/static/js/377.99cf2af1.chunk.js",
+    "service-worker.js": "/haru_vitamin/service-worker.js",
+    "index.html": "/haru_vitamin/index.html",
+    "main.fac29159.css.map": "/haru_vitamin/static/css/main.fac29159.css.map",
+    "main.aee56085.js.map": "/haru_vitamin/static/js/main.aee56085.js.map",
+    "377.99cf2af1.chunk.js.map": "/haru_vitamin/static/js/377.99cf2af1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac29159.css",
+    "static/js/main.aee56085.js"
+  ]
+}
